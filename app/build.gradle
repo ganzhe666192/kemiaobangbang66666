@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ganzhe.sounder_kemiao'
+    namespace 'com.stand.sounder_template'
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.stand.sounder.template"
+        applicationId "com.gan.sounder.ke"
         minSdk 23
         targetSdk 36
         versionCode 1
